@@ -44,6 +44,4 @@ Certains défis, comme la configuration des règles NAT et la gestion des permis
 ## 🙏 Remerciements 🙏
 
 Merci à mes enseignants et collègues du lycée Pergaud pour leur soutien et leurs conseils dans la réalisation de ce projet.
-
-
 ![Image](https://www.logo.wine/a/logo/WireGuard/WireGuard-Logo.wine.svg)
